@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "draft test!"
+date:   2021-09-18 17:16:38 +0400
+categories: jekyll update
+---
+<!-- this is the post content part -->
+你好 Hello Hola
+
+draft Test
